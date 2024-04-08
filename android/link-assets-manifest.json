@@ -1,0 +1,97 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/JameelNoori.ttf",
+      "sha1": "5f88db75e24635800ec89772deece7c02641d609"
+    },
+    {
+      "path": "src/assets/images/atup_logo.png",
+      "sha1": "ab5e9a518aa11a0de5d375a6c7483fa0eb9b06b9"
+    },
+    {
+      "path": "src/assets/images/button_cross.png",
+      "sha1": "2c7498b93eca49d23ea6705ef144f664fe0d9db3"
+    },
+    {
+      "path": "src/assets/images/button_exit.png",
+      "sha1": "41c7aefeb8426ebbeac25d684d3d65ec3f9758b7"
+    },
+    {
+      "path": "src/assets/images/button_get_text.png",
+      "sha1": "748d97343d82c8391d1474f23467b30af629ff13"
+    },
+    {
+      "path": "src/assets/images/button_home.png",
+      "sha1": "556cc4a70bec48101166097fa6157296343de39d"
+    },
+    {
+      "path": "src/assets/images/dastaan_mainscreen.png",
+      "sha1": "23159318075e67f22c98b9f0a85ce2850b920391"
+    },
+    {
+      "path": "src/assets/images/dastan_romanurdu.png",
+      "sha1": "88198cfc42bd8b23b63fb8a5f0cb4f69124fcf87"
+    },
+    {
+      "path": "src/assets/images/dastan_splash_first.png",
+      "sha1": "310a5349db2c658331e7878048ad32fca68e1a16"
+    },
+    {
+      "path": "src/assets/images/dastan_splash_second.png",
+      "sha1": "cdffd19f75310946bac9a80589eb2b264fc8d8d6"
+    },
+    {
+      "path": "src/assets/images/dastan_urdu.png",
+      "sha1": "750ddb79b5ba7472bd28414bd4a977a0c3dd0c90"
+    },
+    {
+      "path": "src/assets/images/extract_screen_inner.png",
+      "sha1": "d7510cb84f4cea578d7679cd880a25760bcf3db3"
+    },
+    {
+      "path": "src/assets/images/frame_camera.png",
+      "sha1": "b243bc2942918cb9fbdb187ca67f90713d141237"
+    },
+    {
+      "path": "src/assets/images/frame_gallery.png",
+      "sha1": "87ed7583436e3ee7ea8a6552644ed11e553d5636"
+    },
+    {
+      "path": "src/assets/images/left_bottom_bg.png",
+      "sha1": "61ea625c2f7e746aa3f5b7fbe7e70945d476c7d4"
+    },
+    {
+      "path": "src/assets/images/ncl_logo.png",
+      "sha1": "b2e359c5d8f0ef33705079e86a8e6efced62e98a"
+    },
+    {
+      "path": "src/assets/images/neduet_logo.png",
+      "sha1": "63c59e35f1f27986bce58237f8511f73cd90e5ab"
+    },
+    {
+      "path": "src/assets/images/right_top_bg.png",
+      "sha1": "558c9fb58c27aa8a83309bc7e1d88f9b28f29545"
+    },
+    {
+      "path": "src/assets/images/suggest_first.jpg",
+      "sha1": "aaf6af8d1bffe1ff51cae4249bf2a32e18a8fd48"
+    },
+    {
+      "path": "src/assets/images/suggest_first.svg",
+      "sha1": "9a3bb4a7a03ce0d7b7f33e313b9b3fc336c88648"
+    },
+    {
+      "path": "src/assets/images/suggest_second.jpg",
+      "sha1": "7a5ac4254c398a66469a756c4f535773012002b4"
+    },
+    {
+      "path": "src/assets/videos/splash_video.mp4",
+      "sha1": "8c28287b687b40a63dc3115fb43f308cc69ac2f3"
+    },
+    {
+      "path": "src/assets/videos/splash_video_new.mp4",
+      "sha1": "bfa1c7ac75f3dafd9765fbfb09282673f22ee2c4"
+    }
+  ]
+}
