@@ -195,7 +195,7 @@ const MainScreen = ({ navigation }) => {
 
     }
     else{
-      Toast.show("No Image Selected", Toast.LONG)
+      Toast.show("User cancelled image selection", Toast.LONG)
     }
 
   }
